@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Zhou4truth/Zhou4truth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![IMG_1616](https://github.com/Zhou4truth/Zhou4truth/assets/142247626/161906cd-34ff-4916-9075-6eb435e663ec)
 
-
-Here are some ideas to get you started:
+![IMG_1616](https://github.com/Zhou4truth/Zhou4truth/assets/142247626/c1bb4d4d-9c88-4649-8f25-755933c8b88b)
 
 - 🔭 I’m currently working on Computing and Software.
 - 🌱 I’m currently learning CUDA and Open ACC.
