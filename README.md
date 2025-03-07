@@ -82,12 +82,12 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
 
 
 
-  📚                          🌥️
-  🎋🎿                   💌📚 
-  🌥️⛵🚢🗺️✈       🗺️ 📚💌🐯🌥️       
-🚢🗺️✈️🌻🎋📺🌥️⛵🚢🗺️✈️🌻💌🎋
-🐅 🌻                          🚢🚢
-✈️                               🗺️✈️🌻
+  -📚                          🌥️
+  -🎋🎿                   💌📚 
+ - 🌥️⛵🚢🗺️✈       🗺️ 📚💌🐯🌥️       
+-🚢🗺️✈️🌻🎋📺🌥️⛵🚢🗺️✈️🌻💌🎋
+-🐅 🌻                          🚢🚢
+-✈️                               🗺️✈️🌻
 
 
 
