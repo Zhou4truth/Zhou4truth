@@ -27,7 +27,7 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
   </a>
 </div>
 
-## 🔧 Technical Skills
+## 🔧 Technical Skills  
 
 ### Computer Vision Expertise
 ```
@@ -85,6 +85,7 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
 
 
 
-## 🏂Don't play the game you are not good at.
+### 🏂Don't play the game you are not good at.
+
     ![IMG_1616](https://github.com/Zhou4truth/Zhou4truth/assets/142247626/c1bb4d4d-9c88-4649-8f25-755933c8b88b)
 
