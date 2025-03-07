@@ -1,4 +1,4 @@
-### Hi there, I'm Gaofeng Zhou 👋
+### Hi there, I'm Peaker Zhou 👋
 
 - 🔭 I'm an R&D Engineer with a passion for solving complex problems using technology. I specialize in backend development (FastAPI), frontend (React), and deploying scalable systems.
 - 
