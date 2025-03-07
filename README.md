@@ -63,13 +63,9 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhou4truth&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhou4truth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8D866&sideLabels=F8D866" alt="GitHub Streak" />
 </div>
 
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhou4truth&theme=react-dark)
 
 ---
 
