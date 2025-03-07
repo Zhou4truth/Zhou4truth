@@ -85,11 +85,9 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
 
 
 
-<div align="center">
 
 ## <h4>🏂Don't play the game you are not good at.<h4>
-
-
+<div align="center">
    < img src="https://github.com/Zhou4truth/Zhou4truth/assets/142247626/c1bb4d4d-9c88-4649-8f25-755933c8b88b" />
     </div>
 
