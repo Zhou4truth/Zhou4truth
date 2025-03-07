@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently working with CUDA and Open ACC.
 - 
-- 👯 I’m looking to collaborat on Image Guided Navigation System for Robotics.
+- 👯 I’m looking for collaborating on Image Guided Navigation System for Robotics.
 - 
 - 🤔 I’m also looking for cooperation with industrial software integration.
 - 
