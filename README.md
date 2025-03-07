@@ -45,7 +45,7 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
 ### Programming & Development
 ```
 💻 Languages: C++, Python, MATLAB
-🛠️ Tools: Qt Platform, Visual Studio, VS Code, CMake, Git, CD/CI
+🛠️ Tools: Qt Platform, Visual Studio, VS Code, CMake, Git, CI/CD
 ```
 
 ### Web & Cloud Technologies
