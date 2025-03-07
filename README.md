@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Vision Engineer specialized in medical image processing, 3D reconstruction, and real-time vision systems, and GPU-accelerated machine learning applications for computer vision.
+Computer Vision Engineer specialized in medical image processing, 3D reconstruction, real-time vision systems, and GPU-accelerated machine learning applications for computer vision.
 
 - 🔭 I'm currently working on Full Stack Development for computer vision applications with Neural Networks.
 - 🌱 I'm learning transformer-based architectures for computer vision.
