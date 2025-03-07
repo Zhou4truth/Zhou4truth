@@ -77,21 +77,9 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
   <img src="https://komarev.com/ghpvc/?username=Zhou4truth&color=blueviolet" alt="Profile Views" />
   
  ##  <h4>💬 "Computer vision is all about teaching machines to see the world as we do, but with mathematical precision."</h4>
-</div>
 
 
-```
-- 🏙️                                - 🏛️
-- 🏝️ 🗽                             - 🏦 🏯 🏰 🏪 🏭
-- 🚄 🚅 💺 ✈️                      - 🛫 🛬 🏨 🏩 🚠 🚡
-- 🚂 🚆                            - 🏮 🏯
-- 🚉                               - 🏰 🏯 🚞
-```
-
-
-
-
-
+🛩️   ⛷️  ⛵  🏹   🥾  📻  🚡   🚁
 
 ## <h4>🏂Don't play the game you are not good at.<h4>
 <div align="center">
