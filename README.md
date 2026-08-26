@@ -16,7 +16,7 @@ Computer Vision Engineer specialized in medical image processing, 3D reconstruct
 - 🌱 I'm learning transformer-based architectures for computer vision.
 - 👯 I'm looking to collaborate on industrial software integration.
 - 📫 How to reach me: [zhou4truth@gmail.com](mailto:zhou4truth@gmail.com)
-- 🏠 Based in Hamilton, Ontario, Canada
+- 🏠 Based in Mississauga, Ontario, Canada
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gaofengzhou" target="_blank">
